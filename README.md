@@ -9,7 +9,6 @@ This repository contains a Power BI dashboard that visualizes how students are u
   - Student Level
   - Discipline
   - Task Type
-  - Session Date (with range filter)
 - **Usage Analysis** – Track how frequently and for how long students use AI assistants.
 - **Session Insights** – Average session length displayed in real-time minutes.
 - **Comparative Charts** – Line charts, stacked bar charts, and clustered bar charts for detailed analysis.
