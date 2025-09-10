@@ -29,9 +29,10 @@ This page provides a **high-level summary** of how students are using AI assista
 
 **Key Components:**
 - KPI Cards – Total AI sessions, average session length (minutes), active student users.  
-- Line Chart – AI usage trends over time.  
-- Stacked Bar Chart – Usage across **student levels** (undergraduate, postgraduate, research).  
-- Clustered Bar Chart – Usage across **disciplines** (engineering, medicine, arts, business).  
+- Line Chart – AI usage trends over time.
+- Stacked Bar Chart —Task Type vs AI Assistant Level. For each task type (research, exam prep, coding help, brainstorming, etc.) how sessions are distributed across assistant-support levels. 
+- Pie Chart – Usage across **student levels** (undergraduate, postgraduate, research).  
+- Clustered Bar Chart – Usage across **disciplines** (engineering, medicine, arts, business).
 - Slicers – Filter by student level, discipline, task type, and session date.  
 
 👉 **Purpose:** Quick snapshot of adoption trends, frequency, and role of AI in student life.  
